@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T12:13:02.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4VGERWHDa7EsWyfsRrxp" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T12:18:02.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TYLjeDNiDGxt34XHApQz" version="20.5.3" type="github">
   <diagram id="S7brBOk6rbZD-52cd3N1" name="第 1 页">
     <mxGraphModel dx="18068" dy="5339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="-11100" y="-250" width="2278" height="3280" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-412" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-8760" y="750" width="3320" height="2130" as="geometry" />
+          <mxGeometry x="-8760" y="-280" width="3320" height="3160" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-210" target="sCLzKsREsTlrQhchSOC_-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-210" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-6297.5" y="1900.16" width="790" height="370" as="geometry" />
+          <mxGeometry x="-6387.5" y="1460.0000000000002" width="790" height="370" as="geometry" />
         </mxCell>
         <mxCell id="GlRYRIC375ZmmNe3r3Gp-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GlRYRIC375ZmmNe3r3Gp-2" target="GlRYRIC375ZmmNe3r3Gp-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,11 +209,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-1" value="beforeMutation&lt;br&gt;commitBeforeMutationEffects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8379.369999999999" y="850" width="190" height="60" as="geometry" />
+          <mxGeometry x="-8327.499999999998" y="58" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-2" target="sCLzKsREsTlrQhchSOC_-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8282.515151515152" y="1120" as="targetPoint" />
+            <mxPoint x="-8230.645151515151" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-13" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sCLzKsREsTlrQhchSOC_-5">
@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-2" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;(flags &lt;span style=&quot;color: #56b6c2;&quot;&gt;&amp;amp;&lt;/span&gt; Snapshot) &lt;span style=&quot;color: #56b6c2;&quot;&gt;!==&lt;/span&gt; NoFlags&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8395" y="1050" width="221.25" height="20" as="geometry" />
+          <mxGeometry x="-8343.13" y="258" width="221.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-8" target="sCLzKsREsTlrQhchSOC_-14">
           <mxGeometry relative="1" as="geometry" />
@@ -249,32 +249,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-8" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;(flags &lt;span style=&quot;color: #56b6c2;&quot;&gt;&amp;amp;&lt;/span&gt; Passive) &lt;span style=&quot;color: #56b6c2;&quot;&gt;!==&lt;/span&gt; NoFlags&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8390" y="1160" width="215" height="20" as="geometry" />
+          <mxGeometry x="-8338.13" y="368" width="215" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-10" value="&lt;div style=&quot;background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191);&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitBeforeMutationLifeCycles&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#61afef&quot;&gt;函数内部处理的主要就是处理类组件&lt;/font&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;getSnapshotBeforeUpdate&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;生命周期函数&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8075" y="1030" width="285" height="60" as="geometry" />
+          <mxGeometry x="-8023.13" y="238" width="285" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-14" value="以一个优先级去异步的调度副作用的创建、销毁函数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8075" y="1140" width="172.5" height="60" as="geometry" />
+          <mxGeometry x="-8023.13" y="348" width="172.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-17" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;nextEffect &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; nextEffect.&lt;span style=&quot;color: #e06c75;&quot;&gt;nextEffect&lt;/span&gt;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8391.25" y="1240" width="217.5" height="40" as="geometry" />
+          <mxGeometry x="-8339.38" y="448" width="217.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-20" target="sCLzKsREsTlrQhchSOC_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-20" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;while&lt;/span&gt; (nextEffect &lt;span style=&quot;color: #56b6c2;&quot;&gt;!==&lt;/span&gt; &lt;span style=&quot;color: #d19a66;&quot;&gt;null&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8387.5" y="970" width="206.25" height="20" as="geometry" />
+          <mxGeometry x="-8335.63" y="178" width="206.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-24" target="sCLzKsREsTlrQhchSOC_-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-24" value="mutation&lt;br&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitMutationEffects&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8244.369999999999" y="1400" width="190" height="60" as="geometry" />
+          <mxGeometry x="-8284.369999999999" y="930" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-29" target="sCLzKsREsTlrQhchSOC_-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8147.515151515152" y="1670" as="targetPoint" />
+            <mxPoint x="-8187.515151515152" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-26" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sCLzKsREsTlrQhchSOC_-25">
@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-29" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; (flags &lt;span style=&quot;color: #56b6c2;&quot;&gt;&amp;amp;&lt;/span&gt; ContentReset)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8244.369999999999" y="1600" width="190" height="20" as="geometry" />
+          <mxGeometry x="-8284.369999999999" y="1130" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-34" target="sCLzKsREsTlrQhchSOC_-36">
           <mxGeometry relative="1" as="geometry" />
@@ -310,74 +310,74 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-34" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; (flags &lt;span style=&quot;color: #56b6c2;&quot;&gt;&amp;amp;&lt;/span&gt; Ref)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8211.869999999999" y="1690" width="125" height="20" as="geometry" />
+          <mxGeometry x="-8251.869999999999" y="1220" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-35" value="&lt;div style=&quot;background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191);&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitResetTextContent&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;重置文本&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-7940" y="1590" width="160" height="40" as="geometry" />
+          <mxGeometry x="-7980" y="1120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-36" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;      &lt;span style=&quot;color: #c678dd;&quot;&gt;var&lt;/span&gt; current &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; nextEffect.&lt;span style=&quot;color: #e06c75;&quot;&gt;alternate&lt;/span&gt;;&lt;/div&gt;&lt;br&gt;&lt;div&gt;      &lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; (current &lt;span style=&quot;color: #56b6c2;&quot;&gt;!==&lt;/span&gt; &lt;span style=&quot;color: #d19a66;&quot;&gt;null&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;        &lt;span style=&quot;color: #61afef;&quot;&gt;commitDetachRef&lt;/span&gt;(current);&lt;/div&gt;&lt;div&gt;如果current存在，就卸载&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-7940" y="1670" width="260" height="60" as="geometry" />
+          <mxGeometry x="-7980" y="1200" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-37" target="sCLzKsREsTlrQhchSOC_-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-37" value="根据节点不同的状态执行插入、更新、删除的操作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8248.43" y="1770" width="198.12" height="40" as="geometry" />
+          <mxGeometry x="-8288.43" y="1300" width="198.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-39" target="sCLzKsREsTlrQhchSOC_-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-39" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;while&lt;/span&gt; (nextEffect &lt;span style=&quot;color: #56b6c2;&quot;&gt;!==&lt;/span&gt; &lt;span style=&quot;color: #d19a66;&quot;&gt;null&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8252.5" y="1520" width="206.25" height="20" as="geometry" />
+          <mxGeometry x="-8292.5" y="1050" width="206.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-40" target="sCLzKsREsTlrQhchSOC_-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8470" y="1870" width="660" height="260" as="geometry" />
+          <mxGeometry x="-8510" y="1400" width="660" height="260" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-41" target="sCLzKsREsTlrQhchSOC_-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-41" value="更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-7930.9400000000005" y="1900" width="50" height="30" as="geometry" />
+          <mxGeometry x="-7970.9400000000005" y="1430" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-42" target="sCLzKsREsTlrQhchSOC_-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-42" value="插入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-8395" y="1900" width="50" height="30" as="geometry" />
+          <mxGeometry x="-8435" y="1430" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-43" target="sCLzKsREsTlrQhchSOC_-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-43" value="删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-8174.370000000001" y="1891.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="-8214.37" y="1421.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-44" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-7870" y="1900" width="60" height="30" as="geometry" />
+          <mxGeometry x="-7910" y="1430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-45" value="commitPlacement&lt;br&gt;寻找父DOM节点&lt;br&gt;寻找兄弟DOM节点&lt;br&gt;执行插入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8430" y="1970" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8470" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-47" value="commitWork&lt;br&gt;根据节点类型，执行更新操作，函数类型执行副作用生命周期，DOM类型执行属性文本的更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7991.869999999999" y="1965" width="171.87" height="70" as="geometry" />
+          <mxGeometry x="-8031.869999999999" y="1495" width="171.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-49" value="commitDeletion&lt;br&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;unmountHostComponents&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;1、找到目标节点在DOM层面的父节点&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;2、判断目标节点是否是DOM节点，如果是就执行3，4，如果不是，就先卸载自己，再继续往下查找DOM节点，再执行3，4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;3、遍历子树执行fiber节点的卸载&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;4、最后再删除目标节点的DOM节点&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8277.37" y="1933.5" width="256" height="145" as="geometry" />
+          <mxGeometry x="-8317.37" y="1463.5" width="256" height="145" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-52" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;nextEffect &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; nextEffect.&lt;span style=&quot;color: #e06c75;&quot;&gt;nextEffect&lt;/span&gt;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8248.75" y="2200" width="217.5" height="40" as="geometry" />
+          <mxGeometry x="-8288.75" y="1730" width="217.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-87" target="sCLzKsREsTlrQhchSOC_-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-87" value="layout&lt;br&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitLayoutEffects&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8557.18" y="2327" width="190" height="60" as="geometry" />
+          <mxGeometry x="-8385" y="2163.66" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-92" target="sCLzKsREsTlrQhchSOC_-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8460.325151515151" y="2597" as="targetPoint" />
+            <mxPoint x="-8288.145151515151" y="2433.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-89" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sCLzKsREsTlrQhchSOC_-88">
@@ -394,11 +394,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-92" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; (flags &lt;span style=&quot;color: #56b6c2;&quot;&gt;&amp;amp;&lt;/span&gt; (Update &lt;span style=&quot;color: #56b6c2;&quot;&gt;|&lt;/span&gt; Callback))&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8580" y="2527" width="235.63" height="20" as="geometry" />
+          <mxGeometry x="-8407.82" y="2363.66" width="235.63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8302.81" y="2627" as="targetPoint" />
+            <mxPoint x="-8130.629999999999" y="2463.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-94" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sCLzKsREsTlrQhchSOC_-93">
@@ -408,7 +408,7 @@
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8462.082727272727" y="2697" as="targetPoint" />
+            <mxPoint x="-8289.902727272727" y="2533.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-96" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sCLzKsREsTlrQhchSOC_-95">
@@ -417,11 +417,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-97" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; (flags &lt;span style=&quot;color: #56b6c2;&quot;&gt;&amp;amp;&lt;/span&gt; Ref)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8524.68" y="2617" width="125" height="20" as="geometry" />
+          <mxGeometry x="-8352.5" y="2453.66" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-98" target="sCLzKsREsTlrQhchSOC_-118">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8012.8099999999995" y="2457" as="targetPoint" />
+            <mxPoint x="-7840.629999999999" y="2293.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-98" target="sCLzKsREsTlrQhchSOC_-119">
@@ -429,63 +429,63 @@
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-98" target="sCLzKsREsTlrQhchSOC_-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-8012.8099999999995" y="2607" as="targetPoint" />
+            <mxPoint x="-7840.629999999999" y="2443.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-98" value="&lt;div style=&quot;background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191);&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitLifeCycles&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8162.8099999999995" y="2527" width="120" height="20" as="geometry" />
+          <mxGeometry x="-7990.629999999999" y="2363.66" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-103" target="sCLzKsREsTlrQhchSOC_-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-103" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;while&lt;/span&gt; (nextEffect &lt;span style=&quot;color: #56b6c2;&quot;&gt;!==&lt;/span&gt; &lt;span style=&quot;color: #d19a66;&quot;&gt;null&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8565.31" y="2447" width="206.25" height="20" as="geometry" />
+          <mxGeometry x="-8393.13" y="2283.66" width="206.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-117" value="current = effect.alternate&lt;br&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitLifeCycles&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-8334.18" y="2489.5" width="150" height="50" as="geometry" />
+          <mxGeometry x="-8162" y="2326.16" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-118" target="sCLzKsREsTlrQhchSOC_-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-118" value="FunctionComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7982.8099999999995" y="2447" width="120" height="30" as="geometry" />
+          <mxGeometry x="-7810.629999999999" y="2283.66" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-119" target="sCLzKsREsTlrQhchSOC_-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-119" value="ClassComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7982.8099999999995" y="2521" width="120" height="30" as="geometry" />
+          <mxGeometry x="-7810.629999999999" y="2357.66" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-120" target="sCLzKsREsTlrQhchSOC_-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-120" value="HostRoot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7982.8099999999995" y="2590" width="120" height="30" as="geometry" />
+          <mxGeometry x="-7810.629999999999" y="2426.66" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-124" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitHookEffectListMount&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;schedulePassiveEffects&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7802.8099999999995" y="2434.5" width="190" height="55" as="geometry" />
+          <mxGeometry x="-7630.629999999999" y="2271.16" width="190" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-126" value="current === null，执行componentDidMount&lt;br&gt;current !== null，执行componentDidUpdate&lt;br&gt;如果存在回调函数，则调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7802.8099999999995" y="2506" width="290" height="60" as="geometry" />
+          <mxGeometry x="-7630.629999999999" y="2342.66" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-128" value="如果存在回调函数，则调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7802.8099999999995" y="2585" width="160" height="40" as="geometry" />
+          <mxGeometry x="-7630.629999999999" y="2421.66" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-131" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitAttachRef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;赋值ref&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8304.18" y="2602" width="120" height="50" as="geometry" />
+          <mxGeometry x="-8132" y="2438.66" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-132" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;nextEffect &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; nextEffect.&lt;span style=&quot;color: #e06c75;&quot;&gt;nextEffect&lt;/span&gt;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-8570.94" y="2697" width="217.5" height="40" as="geometry" />
+          <mxGeometry x="-8398.76" y="2533.66" width="217.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-134" target="sCLzKsREsTlrQhchSOC_-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-134" value="节点更新&lt;br&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitWork&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7227.5" y="1558.75" width="190" height="60" as="geometry" />
+          <mxGeometry x="-7317.5" y="1118.5900000000001" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-145">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-7132.46" y="1758.75" as="targetPoint" />
+            <mxPoint x="-7222.46" y="1318.5900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-145" target="sCLzKsREsTlrQhchSOC_-231">
@@ -495,13 +495,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-145" value="&lt;div style=&quot;background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;switch&lt;/span&gt; (finishedWork.&lt;span style=&quot;color: #e06c75;&quot;&gt;tag&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-7213.83" y="1660.75" width="162.66" height="40" as="geometry" />
+          <mxGeometry x="-7303.83" y="1220.5900000000001" width="162.66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-159" target="sCLzKsREsTlrQhchSOC_-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-159" value="节点删除&lt;br&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitDeletion&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;unmountHostComponents&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6677.5" y="1530.16" width="190" height="60" as="geometry" />
+          <mxGeometry x="-6767.5" y="1090.0000000000002" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-164" target="sCLzKsREsTlrQhchSOC_-169">
           <mxGeometry relative="1" as="geometry" />
@@ -513,17 +513,17 @@
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sCLzKsREsTlrQhchSOC_-213">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-6582.5" y="1680.16" as="sourcePoint" />
+            <mxPoint x="-6672.5" y="1240.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-164" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; (node.&lt;span style=&quot;color: #e06c75;&quot;&gt;tag&lt;/span&gt; &lt;span style=&quot;color: #56b6c2;&quot;&gt;===&lt;/span&gt; HostComponent &lt;span style=&quot;color: #56b6c2;&quot;&gt;||&lt;/span&gt; node.&lt;span style=&quot;color: #e06c75;&quot;&gt;tag&lt;/span&gt; &lt;span style=&quot;color: #56b6c2;&quot;&gt;===&lt;/span&gt; HostText)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6717.5" y="1710.16" width="270" height="20" as="geometry" />
+          <mxGeometry x="-6807.5" y="1270.0000000000002" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-168" target="sCLzKsREsTlrQhchSOC_-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-168" value="寻找父节点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6650.16" y="1630.16" width="135.31" height="40" as="geometry" />
+          <mxGeometry x="-6740.16" y="1190.0000000000002" width="135.31" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-169" target="sCLzKsREsTlrQhchSOC_-176">
           <mxGeometry relative="1" as="geometry" />
@@ -532,25 +532,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-169" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitNestedUnmounts&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;卸载节点下所有fiber节点，对应步骤二、三&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6370.32" y="1695.16" width="262.82" height="50" as="geometry" />
+          <mxGeometry x="-6460.32" y="1255.0000000000002" width="262.82" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-175" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;  &lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;/**&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;   * 目标节点 = 被删除的节点&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;   * 1、找到目标节点在DOM层面的父节点&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;   * 2、判断目标节点是否是DOM节点，如果是就执行3，4，如果不是，就先卸载自己，再继续往下查找DOM节点，再执行3，4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;   * 3、遍历子树执行fiber节点的卸载&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;   * 4、最后再删除目标节点的DOM节点&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;   */&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-6717.5" y="1290.16" width="370" height="140" as="geometry" />
+          <mxGeometry x="-6807.5" y="850.0000000000001" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-176" value="删除DOM节点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6298.91" y="1800.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6388.91" y="1360.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-178" target="sCLzKsREsTlrQhchSOC_-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-178" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitNestedUnmounts&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5947.5" y="1704.91" width="178" height="30.5" as="geometry" />
+          <mxGeometry x="-6037.5" y="1264.7500000000002" width="178" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-180" target="sCLzKsREsTlrQhchSOC_-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-180" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;while&lt;/span&gt; (&lt;span style=&quot;color: #d19a66;&quot;&gt;true&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5904" y="1773.66" width="91" height="19.5" as="geometry" />
+          <mxGeometry x="-5994" y="1333.5000000000002" width="91" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-182" target="sCLzKsREsTlrQhchSOC_-184">
           <mxGeometry relative="1" as="geometry" />
@@ -562,40 +562,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-182" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitUnmount&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;每个节点的卸载都在这个函数内执行&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5959" y="1840.16" width="201" height="60" as="geometry" />
+          <mxGeometry x="-6049" y="1400.0000000000002" width="201" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-184" target="sCLzKsREsTlrQhchSOC_-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-184" value="FunctionComponents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6132" y="1920.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6222" y="1480.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-185" target="sCLzKsREsTlrQhchSOC_-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-185" value="ClassComponents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5918.5" y="1920.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6008.5" y="1480.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-186" target="sCLzKsREsTlrQhchSOC_-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-186" value="HostComponents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5697.5" y="1910.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5787.5" y="1470.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-187" target="sCLzKsREsTlrQhchSOC_-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-187" value="获取Hooks的环状链表，遍历每一个，拿到他们的destory属性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-6132" y="2015.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6222" y="1575.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-191" value="往销毁队列添加当前节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5963" y="2200.16" width="150" height="60" as="geometry" />
+          <mxGeometry x="-6053" y="1760" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-192" target="sCLzKsREsTlrQhchSOC_-193">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-192" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;destory不为空&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6132" y="2110.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6222" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-193" target="sCLzKsREsTlrQhchSOC_-191">
           <mxGeometry relative="1" as="geometry" />
@@ -614,91 +614,91 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-193" value="tag为useEffect对应的tag" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-6127" y="2197.66" width="110" height="65" as="geometry" />
+          <mxGeometry x="-6217" y="1757.5" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-195" value="执行销毁函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6273.41" y="2215.16" width="100" height="30" as="geometry" />
+          <mxGeometry x="-6363.41" y="1775" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-202" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;callComponentWillUnmountWithTimer&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;instance.&lt;span style=&quot;color: #61afef;&quot;&gt;componentWillUnmount&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-5978.5" y="2080.16" width="240" height="40" as="geometry" />
+          <mxGeometry x="-6068.5" y="1640" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-204" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;safelyDetachRef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;卸载ref&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-5697.5" y="2005.16" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5787.5" y="1565.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-211" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;node &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; node.&lt;span style=&quot;color: #e06c75;&quot;&gt;sibling&lt;/span&gt;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5980" y="2300.16" width="155" height="40" as="geometry" />
+          <mxGeometry x="-6070" y="1860" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-213" target="sCLzKsREsTlrQhchSOC_-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-213" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;else&lt;/span&gt; &lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt; ( node.&lt;span style=&quot;color: #e06c75;&quot;&gt;tag&lt;/span&gt; &lt;span style=&quot;color: #56b6c2;&quot;&gt;===&lt;/span&gt; DehydratedFragment)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6720" y="1773.16" width="275" height="40" as="geometry" />
+          <mxGeometry x="-6810" y="1333.0000000000002" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-215" target="sCLzKsREsTlrQhchSOC_-217">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-215" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;else&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; (node.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;tag&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;===&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; HostPortal)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6685" y="1860.16" width="205" height="35" as="geometry" />
+          <mxGeometry x="-6775" y="1420.0000000000002" width="205" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-217" target="sCLzKsREsTlrQhchSOC_-219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-217" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;else&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6670" y="1940.16" width="175" height="57.5" as="geometry" />
+          <mxGeometry x="-6760" y="1500.0000000000002" width="175" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-219" target="sCLzKsREsTlrQhchSOC_-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-219" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitUnmount&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;对应了步骤一后半段&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6640" y="2050.16" width="115" height="33.75" as="geometry" />
+          <mxGeometry x="-6730" y="1610" width="115" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-221" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;node.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;child&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;return&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; node;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;        node &lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; node.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;child&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-6680" y="2140.16" width="195" height="60" as="geometry" />
+          <mxGeometry x="-6770" y="1700" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-206" target="sCLzKsREsTlrQhchSOC_-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-206" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;safelyDetachRef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;卸载ref&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-5910.75" y="2005.16" width="104.5" height="35" as="geometry" />
+          <mxGeometry x="-6000.75" y="1565.0000000000002" width="104.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-230" value="其他类型。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7192.5" y="1758.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="-7282.5" y="1318.5900000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-231" target="sCLzKsREsTlrQhchSOC_-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-231" value="HostComponents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6997.5" y="1753.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="-7087.5" y="1313.5900000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-233" target="sCLzKsREsTlrQhchSOC_-235">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-233" value="FunctionComponents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7387.5" y="1758.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="-7477.5" y="1318.5900000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-235" target="sCLzKsREsTlrQhchSOC_-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-235" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitHookEffectListUnmount&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;(Layout &lt;span style=&quot;color: #56b6c2;&quot;&gt;|&lt;/span&gt; HasEffect, finishedWork)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7457.5" y="1860.75" width="260" height="50" as="geometry" />
+          <mxGeometry x="-7547.5" y="1420.5900000000001" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-237" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt; * 拿到Hooks的updateQueue，对每一个effect进行判断&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt; * 如果effect.tag 为传入的tag，也就是layoutEffect，那么就执行useLayoutEffect的销毁函数&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-7500" y="1970.75" width="345" height="60" as="geometry" />
+          <mxGeometry x="-7590" y="1530.5900000000001" width="345" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-239" target="sCLzKsREsTlrQhchSOC_-241">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-239" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;commitUpdate&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7000" y="1856.25" width="125" height="37" as="geometry" />
+          <mxGeometry x="-7090" y="1416.0900000000001" width="125" height="37" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-241" target="sCLzKsREsTlrQhchSOC_-243">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-241" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(40, 44, 52); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;updateDOMProperties&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7012.5" y="1944.75" width="150" height="29" as="geometry" />
+          <mxGeometry x="-7102.5" y="1504.5900000000001" width="150" height="29" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-243" value="拿到HostComponents的updateQueue进行循环，将每一项更新到DOM节点上" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7017.5" y="2018.25" width="160" height="52.5" as="geometry" />
+          <mxGeometry x="-7107.5" y="1578.0900000000001" width="160" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-247" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCLzKsREsTlrQhchSOC_-245" target="sCLzKsREsTlrQhchSOC_-246">
           <mxGeometry relative="1" as="geometry" />
@@ -1355,10 +1355,19 @@
           <mxGeometry x="-10230" y="-155" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-413" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 108px;&quot;&gt;commit（渲染）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-7085" y="890" width="840" height="140" as="geometry" />
+          <mxGeometry x="-7090" y="-60" width="840" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sCLzKsREsTlrQhchSOC_-415" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 108px;&quot;&gt;render（协调）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-11050" y="160" width="790" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLzKsREsTlrQhchSOC_-416" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;beforeMutation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-8394.999999999998" y="-32" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLzKsREsTlrQhchSOC_-417" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;mutation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-8391.869999999999" y="850" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLzKsREsTlrQhchSOC_-418" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;layout&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-8446.249999999998" y="2046.66" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
